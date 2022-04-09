@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year PhD student at the University of Washington Allen School of Computer Science and Engineering, and I'm advised by [Dan Grossman](https://homes.cs.washington.edu/~djg/). Recently, I have been exploring the budding field of proof engineering. I am interested in creating tools, whether they be software or programming languages, that are both elegant and actually useful. I am also passionate about lowering the boundaries to learning computer science for women, people of color, people with disabilities, and other under-represented groups, as well as for all people.
+I'm a second year PhD student at the University of Washington Allen School of Computer Science & Engineering, and I'm advised by [Dan Grossman](https://homes.cs.washington.edu/~djg/). Recently, I have been exploring the budding field of proof engineering. I am interested in creating tools, whether they be software or programming languages, that are both elegant and actually useful. I am also passionate about lowering the boundaries to learning computer science for women, people of color, people with disabilities, and other under-represented groups, as well as for all people.
 
 Before I was at UW, I went to Wellesley College near Boston, MA where I double majored in computer science and mathematics, and worked with [Lyn Turbak](https://cs.wellesley.edu/~fturbak/) on analyzing millions of MIT App Inventor projects as well as some DSL design with [Ben Wood](https://cs.wellesley.edu/~bpw/). In the summer of 2019, I used program synthesis to upgrade ROS code with [Ruben Martins](https://sat-group.github.io/ruben/).
 

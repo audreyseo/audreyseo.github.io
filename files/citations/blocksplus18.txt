@@ -1,4 +1,4 @@
-@InProceedings{,
+@InProceedings{seoabstractionlessappinventor2018,
   author =       {Audrey Seo},
   title =        "Abstractionless Programming in App Inventor",
   booktitle =    "ACM SPLASH",

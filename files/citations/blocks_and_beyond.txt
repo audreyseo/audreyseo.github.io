@@ -1,4 +1,4 @@
-@InProceedings{,
+@InProceedings{enhancingabstraction2019,
   author =       {Evan Patton and Audrey Seo and Franklyn Turbak},
   title =        "Enhancing Abstraction in App Inventor with Generic Event Handlers",
   booktitle =    "IEEE",
