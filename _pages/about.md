@@ -8,13 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year PhD student at the University of Washington Allen School of Computer Science & Engineering, and I'm advised by [Dan Grossman](https://homes.cs.washington.edu/~djg/). I am interested in creating tools, whether they be software or programming languages, that are both elegant and actually useful. I am also passionate about lowering the boundaries to learning computer science for women, people of color, people with disabilities, and other under-represented groups, as well as for all people.
+I'm a sixth year PhD student at the University of Washington Allen School of Computer Science & Engineering, and I'm advised by [Dan Grossman](https://homes.cs.washington.edu/~djg/). I am interested in creating tools, whether they be software or programming languages, that are both elegant and actually useful. I am also passionate about lowering the boundaries to learning computer science for women, people of color, people with disabilities, and other under-represented groups, as well as for all people.
 
-I am currently researching _proof compilation_. People often write proofs of source programs, but those source programs get compiled to low-level code. This compilation may not preserve desired properties about the source program. I am investigating ways of producing proofs of properties for low-level code from  proofs of properties about the source code.
+I am currently researching _proof compilation_. People often write proofs of source programs, but those source programs get compiled to low-level code. While other techniques would use a compiler or compilation correctness theorem to obtain target-program guarantees, our proof compilation technique cares about correctness modulo the program's specification. We are investigating the pros and cons of this proof compilation for producing proofs of properties for low-level code from  proofs of properties about the source code.
 
-Before I was at UW, I went to Wellesley College near Boston, MA where I double majored in computer science and mathematics, and worked with [Lyn Turbak](https://cs.wellesley.edu/~fturbak/) on analyzing millions of MIT App Inventor projects as well as some DSL design with [Ben Wood](https://cs.wellesley.edu/~bpw/). In the summer of 2019, I participated in an REU at CMU where I used program synthesis to upgrade ROS code with [Ruben Martins](https://sat-group.github.io/ruben/).
+Helping undergraduate students discover the joy of discovery through computer science research is one of my main goals. I've been incredibly fortunate to work with several fantastic undergraduate students both in the past and the present:
 
-In my free time, I enjoy hanging out with friends, drawing, arts and crafts, puzzles and board games, writing, and growing succulents. Since moving to Seattle, I've also gotten into biking around on the Burke-Gilman trail. Recently, I've been learning how to spin yarn knit, and weave.
+- [Luca Li](https://www.linkedin.com/in/zilu-li-884384254) and [Mark Pock](https://www.linkedin.com/in/markpock) on proof compilation for languages with a heap, and
+- [Raghavi Putluri](https://www.linkedin.com/in/raghavi-putluri-a4b580203), Nikhil George, [Kshitij Rao](https://www.linkedin.com/in/kshitij-rao-0155ab27a?original_referer=https%3A%2F%2Fwww.google.com%2F), [Anna Koblova](https://www.linkedin.com/in/anna-koblova-6ba47129a), and [Sheza Alicherry](https://www.linkedin.com/in/shezaalicherry) on formalisms for bobbin lace.
+
+If you're an undergraduate student at UW who is curious about doing research on proof assistants, formal verification, types, compilation, or any number of other topics, feel free to reach out to me over email!
+
+Before I was at UW, I went to Wellesley College near Boston, MA where I double majored in computer science and mathematics, and worked with [Lyn Turbak](https://cs.wellesley.edu/~fturbak/) on analyzing millions of MIT App Inventor projects as well as some DSL design with [Ben Wood](https://emptymap.net/cs/). In the summer of 2019, I participated in an REU at CMU where I used program synthesis to upgrade ROS code with [Ruben Martins](https://sat-group.github.io/ruben/).
+
+In my free time, I enjoy hanging out with friends, drawing, arts and crafts, puzzles and board games, writing, and growing succulents. Since moving to Seattle, I've also gotten into biking around on the Burke-Gilman trail. Recently, I've been learning how to spin yarn, knit, and weave.
 
 <!-- A data-driven personal website
 ======
