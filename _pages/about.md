@@ -15,7 +15,7 @@ I am currently researching _proof compilation_. People often write proofs of sou
 Helping undergraduate students discover the joy of discovery through computer science research is one of my main goals. I've been incredibly fortunate to work with several fantastic undergraduate students both in the past and the present:
 
 - [Luca Li](https://www.linkedin.com/in/zilu-li-884384254) and [Mark Pock](https://www.linkedin.com/in/markpock) on proof compilation for languages with a heap, and
-- [Raghavi Putluri](https://www.linkedin.com/in/raghavi-putluri-a4b580203), Nikhil George, [Kshitij Rao](https://www.linkedin.com/in/kshitij-rao-0155ab27a?original_referer=https%3A%2F%2Fwww.google.com%2F), [Anna Koblova](https://www.linkedin.com/in/anna-koblova-6ba47129a), and [Sheza Alicherry](https://www.linkedin.com/in/shezaalicherry) on formalisms for bobbin lace.
+- [Raghavi Putluri](https://www.linkedin.com/in/raghavi-putluri-a4b580203), [Nikhil George](http://www.linkedin.com/in/nikhil-george01), [Kshitij Rao](https://www.linkedin.com/in/kshitij-rao-0155ab27a?original_referer=https%3A%2F%2Fwww.google.com%2F), [Anna Koblova](https://www.linkedin.com/in/anna-koblova-6ba47129a), and [Sheza Alicherry](https://www.linkedin.com/in/shezaalicherry) on formalisms for bobbin lace.
 
 If you're an undergraduate student at UW who is curious about doing research on proof assistants, formal verification, types, compilation, or any number of other topics, feel free to reach out to me over email!
 
