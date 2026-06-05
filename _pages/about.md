@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a sixth year PhD student at the University of Washington Allen School of Computer Science & Engineering, and I'm advised by [Dan Grossman](https://homes.cs.washington.edu/~djg/). I am interested in creating tools, whether they be software or programming languages, that are both elegant and actually useful. I am also passionate about lowering the boundaries to learning computer science for women, people of color, people with disabilities, and other under-represented groups, as well as for all people.
+I'm an nth year PhD student at the University of Washington Allen School of Computer Science & Engineering, and I'm advised by [Dan Grossman](https://homes.cs.washington.edu/~djg/). I am interested in creating tools, whether they be software or programming languages, that are both elegant and actually useful. I am also passionate about lowering the boundaries to learning computer science for women, people of color, people with disabilities, and other under-represented groups, as well as for all people.
 
 I am currently researching _proof compilation_. People often write proofs of source programs, but those source programs get compiled to low-level code. While other techniques would use a compiler or compilation correctness theorem to obtain target-program guarantees, our proof compilation technique cares about correctness modulo the program's specification. We are investigating the pros and cons of this proof compilation for producing proofs of properties for low-level code from  proofs of properties about the source code.
 
